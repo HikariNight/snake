@@ -19,7 +19,7 @@
 </p>
  
 ## Note
-This is a modified clone of https://github.com/koterba/snake
+This is a modified clone of https://github.com/koterba/snake, 
 Mainly consists of polishes and my own personal preferences
 
 ## Changes
