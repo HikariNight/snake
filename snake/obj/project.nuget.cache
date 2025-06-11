@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "oCveUDtlXktWUGpugcWlzwtikKtqZ8wReyCyg5yr4a79vTnx9oCraEyiin0xq7lBrE19Jeg3phpnvxo4Tnyjzw==",
+  "dgSpecHash": "SwCyODJu6xg=",
   "success": true,
-  "projectFilePath": "E:\\Programming\\CS\\snake\\snake\\snake.csproj",
+  "projectFilePath": "c:\\.Personal\\Code\\Projects\\snake\\snake\\snake.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\koter\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
-    "C:\\Users\\koter\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Ryan O'brien Coker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
   ],
   "logs": []
 }

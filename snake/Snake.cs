@@ -2,7 +2,9 @@ public class Snake {
     List<Position> segments;
     Direction direction;
     bool addSegmentFlag;
+    public Direction currentDirection;
 
+    
     public Snake() {
         segments = new List<Position>();
         direction = Direction.Left;
@@ -81,8 +83,14 @@ public class Snake {
     public void SetDirection(Direction _direction) {
         direction = _direction;
     }
+    
+    public Direction GetDirection()
+    {
+        return direction;
+    }
 
-    public void AddSegment() {
+    public void AddSegment()
+    {
         addSegmentFlag = true;
     }
 }
