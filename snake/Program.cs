@@ -138,14 +138,6 @@ static class Program
         Raylib.CloseWindow();
     }
 
-    // Changes made to the original code:
 
-    // "Improvements":
-    // - Changed default colours (to my favourite colours (Black and Red) :D)
-    // - Removed ability to kill self by going in the opposite direction 
-
-    // "Todo":
-    // - Make food blink
-    // - Make game faster (smoother) 
 
 }
