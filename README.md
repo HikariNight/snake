@@ -20,7 +20,7 @@
  
 ## Note
 This is a modified clone of https://github.com/koterba/snake, 
-Mainly consists of polishes and my own personal preferences
+mainly consists of polishes and my own personal preferences
 
 ## Changes
 - Changed default colours (to my favourite colours (Black and Red) :D)
